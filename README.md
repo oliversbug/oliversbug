@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center"> Hello there! I'm Bug 👋 </h3>
+
+---
 
 <!--
 **oliversbug/oliversbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
